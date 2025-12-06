@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.KAUFEN one word domai
 | abatic.kaufen     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.kaufen    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.kaufen   | available | 50       | 1%     | 8      |           |         |         |
-| abc.kaufen        | available | 102      | 41%    | 3      |           |         |         |
+| abc.kaufen        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.kaufen  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.kaufen  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.kaufen | available | 56       | 1%     | 10     |           |         |         |
