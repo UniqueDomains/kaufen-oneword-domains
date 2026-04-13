@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .kaufen one-word domains from Uniq
 
 **Public extract:** 9,774 rows · **Live catalog:** 9,774 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/kaufen`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | live.kaufen       | available | $9.99     | $43.99        | 108            | 54     | 4      | name.com             |
 | info.kaufen       | resell    | —         | —             | 80             | 51     | 4      | InterNetX GmbH       |
 | hotel.kaufen      | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap            |
-| alpha.kaufen      | available | $9.99     | $43.99        | 90             | 54     | 5      | name.com             |
+| zero.kaufen       | available | $9.99     | $43.99        | 112            | 53     | 4      | name.com             |
 | stellar.kaufen    | resell    | —         | —             | 78             | 49     | 7      | IONOS SE             |
 | auto.kaufen       | premium   | $1,040    | $1,040        | 68             | 45     | 4      | namecheap            |
-| zero.kaufen       | available | $9.99     | $43.99        | 112            | 53     | 4      | name.com             |
+| alpha.kaufen      | available | $9.99     | $43.99        | 90             | 53     | 5      | name.com             |
 | gold.kaufen       | resell    | —         | —             | 72             | 48     | 4      | Dynadot Inc          |
 | stock.kaufen      | premium   | $260      | $260          | 68             | 40     | 5      | namecheap            |
 | fast.kaufen       | available | $9.99     | $43.99        | 82             | 53     | 4      | name.com             |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
