@@ -76,10 +76,10 @@ print(df.head())
 | alpha.kaufen      | available | $9.99     | $43.99        | 90             | 53     | 5      | name.com             |
 | gold.kaufen       | resell    | —         | —             | 72             | 48     | 4      | Dynadot Inc          |
 | stock.kaufen      | premium   | $260      | $260          | 68             | 40     | 5      | namecheap            |
-| fast.kaufen       | available | $9.99     | $43.99        | 82             | 53     | 4      | name.com             |
+| true.kaufen       | available | $9.99     | $43.99        | 86             | 52     | 4      | name.com             |
 | car.kaufen        | resell    | —         | —             | 94             | 46     | 3      | Mesh Digital Limited |
 | realestate.kaufen | premium   | $42.90    | $42.90        | —              | 40     | 11     | namecheap            |
-| true.kaufen       | available | $9.99     | $43.99        | 86             | 52     | 4      | name.com             |
+| fast.kaufen       | available | $9.99     | $43.99        | 82             | 52     | 4      | name.com             |
 | drone.kaufen      | resell    | —         | —             | 70             | 45     | 5      | Dynadot Inc          |
 | about.kaufen      | premium   | $1,000    | $1,000        | 94             | 37     | 5      | name.com             |
 | game.kaufen       | available | $9.99     | $43.99        | 120            | 50     | 4      | name.com             |
