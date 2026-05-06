@@ -1,10 +1,10 @@
-# Available .KAUFEN One-Word Domains (12,743)
+# Available .KAUFEN One-Word Domains (12,744)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C743%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C744%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kaufen one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,743 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,744 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,743 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,744 domains · **Median ask:** $13.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/kaufen`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Trex.kaufen         | available | $33.58    | —             | 80             | 24     | 5      | namecheap |
+| homes.kaufen        | available | $9.99     | —             | 86             | 34     | 5      | name.com  |
+| jewels.kaufen       | available | $9.99     | —             | 80             | 15     | 6      | name.com  |
+| forces.kaufen       | available | $9.99     | —             | 82             | 12     | 6      | name.com  |
+| Apples.kaufen       | available | $33.58    | —             | 90             | 16     | 6      | namecheap |
+| dogsit.kaufen       | available | $9.99     | —             | 96             | 2      | 6      | name.com  |
+| edamame.kaufen      | available | $5.99     | $26.99        | 80             | 9      | 7      | namesilo  |
+| QandA.kaufen        | available | $33.58    | —             | 80             | 10     | 7      | namecheap |
+| stirup.kaufen       | available | $9.99     | —             | 82             | 3      | 7      | name.com  |
 | coins.kaufen        | available | $9.99     | —             | 56             | 41     | 5      | name.com  |
 | SanDiego.kaufen     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo  |
 | shortcuts.kaufen    | available | $9.99     | —             | 48             | 41     | 10     | name.com  |
 | studios.kaufen      | premium   | $123.75   | —             | 54             | 21     | 7      | name.com  |
 | neuroscience.kaufen | available | $9.99     | —             | 80             | 37     | 12     | name.com  |
 | notebooks.kaufen    | premium   | $118.80   | $118.80       | 56             | 9      | 9      | namesilo  |
-| homes.kaufen        | available | $9.99     | —             | 86             | 34     | 5      | name.com  |
 | etc.kaufen          | available | $9.99     | —             | 58             | 34     | 3      | name.com  |
 | teams.kaufen        | available | $9.99     | —             | 62             | 32     | 5      | name.com  |
 | trends.kaufen       | available | $9.99     | —             | 60             | 32     | 6      | name.com  |
 | William.kaufen      | available | $33.58    | —             | 74             | 31     | 7      | namecheap |
 | letsgo.kaufen       | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
-| spaces.kaufen       | available | $9.99     | —             | 54             | 30     | 6      | name.com  |
-| videos.kaufen       | available | $9.99     | —             | 52             | 30     | 6      | name.com  |
-| forms.kaufen        | available | $9.99     | —             | 54             | 28     | 5      | name.com  |
-| systems.kaufen      | available | $9.99     | —             | 46             | 27     | 7      | name.com  |
-| trades.kaufen       | available | $5.99     | $26.99        | 71             | 26     | 6      | namesilo  |
-| has.kaufen          | available | $9.99     | —             | 60             | 26     | 3      | name.com  |
-| doctors.kaufen      | available | $9.99     | —             | 56             | 26     | 7      | name.com  |
-| Keith.kaufen        | available | $33.58    | —             | 66             | 25     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,743 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,744 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all single-word names on the .kaufen extension, which makes the set commercially specific from the start. Words such as tips, homes, jewels, and WiFi read as product, category, or consumer-intent terms, while names like Acup or barup lean more invented and brand-led. For founders, the best picks are the words that stay clear, memorable, and easy to trust when paired with .kaufen. For investors, the stronger candidates are terms with obvious buyer relevance and a realistic ask relative to the median ask of 13.39. When comparing this set, focus on direct meaning, resale audience, and whether the word feels natural on a buy-oriented extension.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that fit a buy-oriented .kaufen meaning
+- Exact-match terms often read clearer than invented words
+- Use the 13.39 median ask as a rough pricing anchor
+- Watch for trademark tension in branded-looking terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
