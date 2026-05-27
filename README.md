@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kaufen one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,746 domains · **Median ask:** $13.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/kaufen`  
 **Best for:** founders, investors, studios
 
@@ -79,9 +79,9 @@ print(df.head())
 | studios.kaufen      | premium   | $123.75   | —             | 54             | 21     | 7      | name.com  |
 | neuroscience.kaufen | available | $9.99     | —             | 80             | 37     | 12     | name.com  |
 | notebooks.kaufen    | premium   | $118.80   | $118.80       | 56             | 9      | 9      | namesilo  |
-| etc.kaufen          | available | $9.99     | —             | 58             | 34     | 3      | name.com  |
 | teams.kaufen        | available | $9.99     | —             | 62             | 32     | 5      | name.com  |
 | trends.kaufen       | available | $9.99     | —             | 60             | 32     | 6      | name.com  |
+| etc.kaufen          | available | $9.99     | —             | 58             | 32     | 3      | name.com  |
 | William.kaufen      | available | $33.58    | —             | 74             | 31     | 7      | namecheap |
 | letsgo.kaufen       | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
