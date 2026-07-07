@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .kaufen one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,746 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,746 domains · **Median ask:** $13.39 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,746 domains · **Median ask:** $10.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/kaufen`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/kaufen`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .KAUFEN one-word domai
 
 ### Files
 
-- `kaufen.csv` — public CSV extract (1,000 rows)
-- `kaufen.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `kaufen.csv`, public CSV extract (1,000 rows)
+- `kaufen.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.kaufen         | available | $33.58    | —             | 80             | 24     | 5      | namecheap |
-| homes.kaufen        | available | $9.99     | —             | 86             | 34     | 5      | name.com  |
-| jewels.kaufen       | available | $9.99     | —             | 80             | 15     | 6      | name.com  |
-| forces.kaufen       | available | $9.99     | —             | 82             | 12     | 6      | name.com  |
-| Apples.kaufen       | available | $33.58    | —             | 90             | 16     | 6      | namecheap |
-| dogsit.kaufen       | available | $9.99     | —             | 96             | 2      | 6      | name.com  |
-| edamame.kaufen      | available | $5.99     | $26.99        | 80             | 9      | 7      | namesilo  |
-| QandA.kaufen        | available | $33.58    | —             | 80             | 10     | 7      | namecheap |
-| stirup.kaufen       | available | $9.99     | —             | 82             | 3      | 7      | name.com  |
-| coins.kaufen        | available | $9.99     | —             | 56             | 41     | 5      | name.com  |
-| SanDiego.kaufen     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo  |
-| shortcuts.kaufen    | available | $9.99     | —             | 48             | 41     | 10     | name.com  |
-| studios.kaufen      | premium   | $123.75   | —             | 54             | 21     | 7      | name.com  |
-| neuroscience.kaufen | available | $9.99     | —             | 80             | 37     | 12     | name.com  |
-| notebooks.kaufen    | premium   | $118.80   | $118.80       | 56             | 9      | 9      | namesilo  |
-| teams.kaufen        | available | $9.99     | —             | 62             | 32     | 5      | name.com  |
-| trends.kaufen       | available | $9.99     | —             | 60             | 32     | 6      | name.com  |
-| etc.kaufen          | available | $9.99     | —             | 58             | 32     | 3      | name.com  |
-| William.kaufen      | available | $33.58    | —             | 74             | 31     | 7      | namecheap |
-| letsgo.kaufen       | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| here.kaufen      | available | —         | —             | high           | low    | 4      | —             |
+| off.kaufen       | available | $5.99     | $26.99        | high           | low    | 3      | namesilo      |
+| simple.kaufen    | available | $9.99     | $43.99        | high           | medium | 6      | name.com      |
+| ago.kaufen       | available | $9.99     | $43.99        | medium         | low    | 3      | name.com      |
+| pay.kaufen       | resell    | —         | —             | high           | medium | 3      | Virtualia LLC |
+| abc.kaufen       | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap     |
+| ale.kaufen       | available | $5.99     | $26.99        | medium         | low    | 3      | namesilo      |
+| world.kaufen     | resell    | —         | —             | high           | medium | 5      | Porkbun LLC   |
+| dvd.kaufen       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo      |
+| any.kaufen       | available | $9.99     | —             | high           | medium | 3      | name.com      |
+| lp.kaufen        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo      |
+| ate.kaufen       | available | $5.99     | $26.99        | high           | low    | 3      | namesilo      |
+| hotel.kaufen     | premium   | $128.70   | $128.70       | high           | medium | 5      | namecheap     |
+| beg.kaufen       | available | $5.99     | $26.99        | medium         | low    | 3      | namesilo      |
+| pizza.kaufen     | premium   | $242      | $242          | high           | low    | 5      | namesilo      |
+| bit.kaufen       | available | $5.99     | $26.99        | high           | medium | 3      | namesilo      |
+| ebook.kaufen     | premium   | $38.94    | $38.94        | high           | low    | 6      | namesilo      |
+| bra.kaufen       | available | $5.99     | $26.99        | medium         | low    | 3      | namesilo      |
+| cleveland.kaufen | premium   | $118.80   | $118.80       | medium         | low    | 9      | namesilo      |
+| bye.kaufen       | available | $5.99     | $26.99        | high           | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all single-word names on the .kaufen extension, which makes the set commercially specific from the start. Words such as tips, homes, jewels, and WiFi read as product, category, or consumer-intent terms, while names like Acup or barup lean more invented and brand-led. For founders, the best picks are the words that stay clear, memorable, and easy to trust when paired with .kaufen. For investors, the stronger candidates are terms with obvious buyer relevance and a realistic ask relative to the median ask of 13.39. When comparing this set, focus on direct meaning, resale audience, and whether the word feels natural on a buy-oriented extension.
+This list covers 12,746 one-word domains registered under .kaufen, the German-language extension for 'buy'. The set includes short, universally recognizable words such as out.kaufen, half.kaufen, just.kaufen, christmas.kaufen, and correct.kaufen. Median asking price across these domains sits near $11, keeping most names within reach for quick evaluation. When comparing these domains, weigh word clarity, spelling simplicity, and renewal cost alongside how the .kaufen extension reads for your target market. Updated daily to reflect current asking prices.
 
-- Prefer words that fit a buy-oriented .kaufen meaning
-- Exact-match terms often read clearer than invented words
-- Use the 13.39 median ask as a rough pricing anchor
-- Watch for trademark tension in branded-looking terms
+- 12,746 one-word .kaufen domains in this set
+- Median asking price near $11 across the list
+- Includes everyday words: out, half, just, okay, feel
+- Short, easy-to-spell names for quick evaluation
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
