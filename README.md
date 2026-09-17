@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kaufen one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,533 domains · **Median ask:** $9.04 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/kaufen`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| here.kaufen      | available | —         | —             | high           | low    | 4      | —             |
+| off.kaufen       | available | $5.99     | $26.99        | high           | low    | 3      | namesilo      |
+| simple.kaufen    | available | $9.99     | $43.99        | high           | medium | 6      | name.com      |
 | ago.kaufen       | available | $9.99     | $43.99        | medium         | low    | 3      | name.com      |
 | pay.kaufen       | resell    | —         | —             | high           | medium | 3      | Virtualia LLC |
 | abc.kaufen       | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap     |
@@ -81,9 +84,6 @@ print(df.head())
 | bit.kaufen       | available | $5.99     | $26.99        | high           | medium | 3      | namesilo      |
 | cleveland.kaufen | premium   | $118.80   | $118.80       | medium         | low    | 9      | namesilo      |
 | bra.kaufen       | available | $5.99     | $26.99        | medium         | low    | 3      | namesilo      |
-| bye.kaufen       | available | $5.99     | $26.99        | high           | low    | 3      | namesilo      |
-| ccc.kaufen       | available | $5.99     | $26.99        | low            | medium | 3      | namesilo      |
-| cow.kaufen       | available | $5.99     | $26.99        | high           | low    | 3      | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
