@@ -1,10 +1,10 @@
-# Available .KAUFEN One-Word Domains (27,008)
+# Available .KAUFEN One-Word Domains (29,430)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C008%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C430%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kaufen one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,008 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,430 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,008 domains · **Median ask:** $12.95 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 29,430 domains · **Median ask:** $13.73 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/kaufen`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| any.kaufen        | available | $5.99     | $26.99        | high           | medium | 3      | namesilo  |
-| dvd.kaufen        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
-| apt.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
-| web.kaufen        | premium   | $880      | $880          | high           | medium | 3      | dynadot   |
-| ari.kaufen        | available | $5.57     | $24.83        | high           | medium | 3      | dynadot   |
-| ring.kaufen       | premium   | $828.20   | $828.20       | high           | low    | 4      | spaceship |
-| ass.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
-| anlage.kaufen     | premium   | $854      | $854          | medium         | low    | 6      | namesilo  |
-| cpu.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
-| studios.kaufen    | premium   | $128.70   | $128.70       | medium         | low    | 7      | namecheap |
-| did.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
-| columbus.kaufen   | premium   | $54.36    | $108.60       | high           | low    | 8      | porkbun   |
-| dry.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
-| pittsburgh.kaufen | premium   | $118.80   | $118.80       | high           | low    | 10     | namesilo  |
-| era.kaufen        | available | $5.99     | $26.99        | high           | medium | 3      | namesilo  |
-| eye.kaufen        | available | $29.98    | $33.58        | high           | low    | 3      | namecheap |
-| fun.kaufen        | available | $5.99     | $26.99        | high           | medium | 3      | namesilo  |
-| guy.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
-| idk.kaufen        | available | $5.99     | $26.99        | medium         | low    | 3      | namesilo  |
-| inc.kaufen        | available | $5.99     | $26.99        | high           | low    | 3      | namesilo  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| ahl.kaufen      | available | $23.94    | $23.94        | high           | low    | 3      | spaceship  |
+| dvd.kaufen      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo   |
+| any.kaufen      | available | $5.99     | $26.99        | high           | medium | 3      | namesilo   |
+| web.kaufen      | premium   | $880      | $880          | high           | medium | 3      | dynadot    |
+| apt.kaufen      | available | $5.99     | $26.99        | high           | low    | 3      | namesilo   |
+| ring.kaufen     | premium   | $828.20   | $828.20       | high           | low    | 4      | spaceship  |
+| ari.kaufen      | available | $5.57     | $24.83        | high           | medium | 3      | dynadot    |
+| anlage.kaufen   | premium   | $854      | $854          | medium         | low    | 6      | namesilo   |
+| ass.kaufen      | available | $5.99     | $26.99        | high           | low    | 3      | namesilo   |
+| studios.kaufen  | premium   | $128.70   | $128.70       | high           | low    | 7      | namecheap  |
+| dry.kaufen      | available | $5.99     | $26.99        | high           | low    | 3      | namesilo   |
+| columbus.kaufen | premium   | $54.36    | $108.60       | high           | low    | 8      | porkbun    |
+| dsc.kaufen      | available | $23.94    | $23.94        | high           | low    | 3      | spaceship  |
+| eia.kaufen      | available | $23.20    | $23.20        | high           | low    | 3      | cloudflare |
+| era.kaufen      | available | $5.66     | $24.20        | high           | medium | 3      | porkbun    |
+| eye.kaufen      | available | $29.98    | $33.58        | high           | low    | 3      | namecheap  |
+| ftp.kaufen      | available | $23.94    | $23.94        | high           | low    | 3      | spaceship  |
+| fun.kaufen      | available | $5.99     | $26.99        | high           | medium | 3      | namesilo   |
+| guy.kaufen      | available | $5.99     | $26.99        | high           | low    | 3      | namesilo   |
+| idk.kaufen      | available | $5.99     | $26.99        | medium         | low    | 3      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,008 live domains                        |
+| 1,000-row public sample | 29,430 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KAUFEN One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
